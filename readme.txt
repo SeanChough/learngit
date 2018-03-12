@@ -8,3 +8,7 @@ Creating a new branch is quick and simple.
 Test branches management.
 
 Test the function "stash".
+
+-----------------------------------------------
+Hi Sean,I am Taylor,your colleagure in Guangxi.
+-----------------------------------------------
