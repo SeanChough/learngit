@@ -7,4 +7,7 @@ Creating a new branch is quick and simple.
 
 Test branches management.
 
+
 This is an emergency bug fix,and it's code is 01.
+
+Test the function "stash".
