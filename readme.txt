@@ -6,3 +6,5 @@ I will try to test how to push to the remote repository.
 Creating a new branch is quick and simple.
 
 Test branches management.
+
+Test the function "stash".
