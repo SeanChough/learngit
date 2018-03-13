@@ -11,3 +11,7 @@ Test branches management.
 This is an emergency bug fix,and it's code is 01.
 
 Test the function "stash".
+
+-----------------------------------------------
+Hi Sean,I am Taylor,your colleagure in Guangxi.
+-----------------------------------------------
